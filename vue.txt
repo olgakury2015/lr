@@ -1,0 +1,11 @@
+vue报错处理
+
+npm clean
+ 
+npm run clean
+ 
+npm  clean-install
+ 
+npm install
+ 
+npm run dev
