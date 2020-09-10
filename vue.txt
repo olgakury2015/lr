@@ -1,3 +1,4 @@
+pull
 vue报错处理
 
 npm clean
